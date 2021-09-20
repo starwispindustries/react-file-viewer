@@ -6,7 +6,7 @@
   "module": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/plangrid/react-file-viewer.git"
+    "url": "git+https://github.com/starwispindustries/react-file-viewer.git"
   },
   "scripts": {
     "dev": "webpack -d --watch",
@@ -17,27 +17,13 @@
     "jest": "node_modules/.bin/jest --env=jsdom",
     "tag-and-publish": "node ./scripts/publish.js"
   },
-  "author": "PlanGrid <opensource@plangrid.com>",
-  "contributors": [
-    {
-      "name": "Alexei Schiopu",
-      "email": "alexxschiopu@gmail.com",
-      "url": "http://schiopu.me"
-    },
-    {
-      "name": "Aaron Norby",
-      "email": "aaron.norby@gmail.com"
-    },
-    {
-      "name": "Viktoriya Savkina",
-      "email": "viktoriya.savkina@gmail.com"
-    }
-  ],
+  "author": "Starwisp Industries <operations@starwispindustries.com>",
+  "contributors": [],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/plangrid/react-file-viewer/issues"
+    "url": "https://github.com/starwispindustries/react-file-viewer/issues"
   },
-  "homepage": "https://github.com/plangrid/react-file-viewer#readme",
+  "homepage": "https://github.com/starwispindustries/react-file-viewer#readme",
   "devDependencies": {
     "autoprefixer": "^7.1.0",
     "babel-core": "^6.24.1",
